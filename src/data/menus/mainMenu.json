@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Услуги",
+        "url": "/services/",
+        "weight": 2
+    },
+    {
+        "name": "Команда",
+        "url": "/team/",
+        "weight": 3
+    },
+    {
+        "name": "О нас",
+        "url": "/about/",
+        "weight": 4
+    },
+    {
+        "name": "Контакты",
+        "url": "/contact/",
+        "weight": 5
+    }
+]
