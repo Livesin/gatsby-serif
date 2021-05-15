@@ -6,21 +6,21 @@
         "mobile": "/images/logo/logo-mobile.svg",
         "desktop": "/images/logo/logo.svg",
         "desktop_height": "56px",
-        "alt": "Сервисный центр по ремонту компьтеров ноутбуков в Одессе, Технарь, +38(091)6090993"
+        "alt": "Сервисный центр по ремонту компьтеров ноутбуков в Одессе, Electronics DSavtos, +38(091)6090993"
     },
     "homepage_meta_tags": {
         "meta_description": "Профессиональный ремонт компьтеров и ноутбуков Срочная диагностика до 30 минут при Вас. Запись на ремонт +38(091)6090993 и приходите по адресу в контактах",
-        "meta_og_title": "Сервисный центр по ремонту компьтеров ноутбуков в Одессе, Технарь, +38(091)6090993",
+        "meta_og_title": "Сервисный центр по ремонту компьтеров ноутбуков в Одессе, Electronics DSavtos, +38(091)6090993",
         "meta_og_type": "website",
         "meta_og_url": "http://witty.co.ua",
         "meta_og_image": "https://www.zerostatic.io/theme/gatsby-serif/gatsby-serif-screenshot.png",
-        "meta_og_description": "Аккуратный ремонт компьтеров ноутбуков в Одессе☑Ремонт за 30 минут при вас✓Стоимость от 350 грн✓Сервисный центр Технарь☎ +38(091)6090993. Заходите!",
+        "meta_og_description": "Аккуратный ремонт компьтеров ноутбуков в Одессе☑Ремонт за 30 минут при вас✓Стоимость от 350 грн✓Сервисный центр Electronics DSavtos☎ +38(091)6090993. Заходите!",
         "meta_twitter_card": "summary_large_image",
         "meta_twitter_site": "@zerostaticio",
         "meta_twitter_creator": "@zerostaticio"
     },
     "footer": {
-        "copyright_text": "© Сервисный центр «Технарь™» 2011–2021",
+        "copyright_text": "© Сервисный центр «Electronics DSavtos™» 2011–2021",
         "copyright_link": "http://witty.co.ua"
     }
 }
